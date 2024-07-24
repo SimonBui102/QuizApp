@@ -1,0 +1,45 @@
+﻿@page
+@model QuizzWeb.Pages.Quizzes.EditQuizModel
+@{
+}
+
+
+
+<h1>Edit Quiz</h1>
+
+<form method="post">
+    <input hidden asp-for="Quiz.Id" />
+    <div class="form-group">
+        <label asp-for="Quiz.Name" class="control-label"></label>
+        <input asp-for="Quiz.Name" class="form-control" />
+        <span asp-validation-for="Quiz.Name" class="text-danger"></span>
+    </div>
+
+    <h3>Questions</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Question</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var question in Model.Quiz.Questions)
+            {
+                <tr>
+                    <td>@question.Content</td>
+                    <td>
+                        <a asp-page="/Quizzes/EditQuestion" asp-route-id="@question.Id" class="btn btn-primary">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-page="./Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

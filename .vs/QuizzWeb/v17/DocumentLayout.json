@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\model\\scoreuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\model\\scoreuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\pages\\quizzes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\pages\\quizzes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\pages\\quizzes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\pages\\quizzes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\pages\\quizzes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\pages\\quizzes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\pages\\quizzes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\pages\\quizzes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\pages\\quizzes\\userscores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\pages\\quizzes\\userscores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\pages\\quizzes\\userscores.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\pages\\quizzes\\userscores.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\pages\\quizzes\\takequiz.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\pages\\quizzes\\takequiz.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\pages\\quizzes\\takequiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\pages\\quizzes\\takequiz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\model\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\model\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\appdbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\appdbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\model\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\model\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\pages\\quizzes\\editquiz.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\pages\\quizzes\\editquiz.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|e:\\job\\soft_dev\\jrm\\back_end\\c#\\midterm_test\\quizzweb\\quizzweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{396C0011-E561-43A8-9541-C2CB188EACC7}|QuizzWeb\\QuizzWeb.csproj|solutionrelative:quizzweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\Create.cshtml",
+              "RelativeDocumentMoniker": "QuizzWeb\\Pages\\Quizzes\\Create.cshtml",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\Create.cshtml",
+              "RelativeToolTip": "QuizzWeb\\Pages\\Quizzes\\Create.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T12:36:08.218Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "QuizzWeb\\Pages\\Quizzes\\Index.cshtml.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\Index.cshtml.cs",
+              "RelativeToolTip": "QuizzWeb\\Pages\\Quizzes\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:25:10.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "QuizzWeb\\Pages\\Quizzes\\Create.cshtml.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\Create.cshtml.cs",
+              "RelativeToolTip": "QuizzWeb\\Pages\\Quizzes\\Create.cshtml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAiwAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:36:30.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserScores.cshtml.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\UserScores.cshtml.cs",
+              "RelativeDocumentMoniker": "QuizzWeb\\Pages\\Quizzes\\UserScores.cshtml.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\UserScores.cshtml.cs",
+              "RelativeToolTip": "QuizzWeb\\Pages\\Quizzes\\UserScores.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:49:35.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserScores.cshtml",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\UserScores.cshtml",
+              "RelativeDocumentMoniker": "QuizzWeb\\Pages\\Quizzes\\UserScores.cshtml",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\UserScores.cshtml",
+              "RelativeToolTip": "QuizzWeb\\Pages\\Quizzes\\UserScores.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T06:49:32.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TakeQuiz.cshtml.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\TakeQuiz.cshtml.cs",
+              "RelativeDocumentMoniker": "QuizzWeb\\Pages\\Quizzes\\TakeQuiz.cshtml.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\TakeQuiz.cshtml.cs",
+              "RelativeToolTip": "QuizzWeb\\Pages\\Quizzes\\TakeQuiz.cshtml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwFcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:56:57.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TakeQuiz.cshtml",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\TakeQuiz.cshtml",
+              "RelativeDocumentMoniker": "QuizzWeb\\Pages\\Quizzes\\TakeQuiz.cshtml",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\TakeQuiz.cshtml",
+              "RelativeToolTip": "QuizzWeb\\Pages\\Quizzes\\TakeQuiz.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T04:56:47.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\AppDbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "QuizzWeb\\AppDbContext\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\AppDbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "QuizzWeb\\AppDbContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:41:19.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditQuiz.cshtml.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\EditQuiz.cshtml.cs",
+              "RelativeDocumentMoniker": "QuizzWeb\\Pages\\Quizzes\\EditQuiz.cshtml.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\EditQuiz.cshtml.cs",
+              "RelativeToolTip": "QuizzWeb\\Pages\\Quizzes\\EditQuiz.cshtml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:01:56.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuizzWeb\\Pages\\Quizzes\\Index.cshtml",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Quizzes\\Index.cshtml",
+              "RelativeToolTip": "QuizzWeb\\Pages\\Quizzes\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T03:49:48.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreUser.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Model\\ScoreUser.cs",
+              "RelativeDocumentMoniker": "QuizzWeb\\Model\\ScoreUser.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Model\\ScoreUser.cs",
+              "RelativeToolTip": "QuizzWeb\\Model\\ScoreUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:51:36.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuizzWeb\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuizzWeb\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:08:08.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Model\\Answer.cs",
+              "RelativeDocumentMoniker": "QuizzWeb\\Model\\Answer.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Model\\Answer.cs",
+              "RelativeToolTip": "QuizzWeb\\Model\\Answer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:46:26.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Model\\Quiz.cs",
+              "RelativeDocumentMoniker": "QuizzWeb\\Model\\Quiz.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Model\\Quiz.cs",
+              "RelativeToolTip": "QuizzWeb\\Model\\Quiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:18:17.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Question.cs",
+              "DocumentMoniker": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Model\\Question.cs",
+              "RelativeDocumentMoniker": "QuizzWeb\\Model\\Question.cs",
+              "ToolTip": "E:\\Job\\Soft_dev\\JRM\\Back_End\\C#\\Midterm_Test\\QuizzWeb\\QuizzWeb\\Model\\Question.cs",
+              "RelativeToolTip": "QuizzWeb\\Model\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T11:21:53.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

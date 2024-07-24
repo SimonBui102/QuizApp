@@ -1,0 +1,33 @@
+﻿@page
+@model QuizzWeb.Pages.Quizzes.UserScoresModel
+@{
+}
+
+
+@{
+    ViewData["Title"] = "User Scores";
+}
+
+<h1>User Scores</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>User Name</th>
+            <th>User Age</th>
+            <th>Score</th>
+            <th>Quiz</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var scoreUser in Model.ScoreUsers)
+        {
+            <tr>
+                <td>@scoreUser.UserName</td>
+                <td>@scoreUser.UserAge</td>
+                <td>@scoreUser.Score / @scoreUser.Quiz.Questions.Count </td>
+                <td>@scoreUser.Quiz.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

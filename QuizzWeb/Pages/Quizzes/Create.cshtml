@@ -1,0 +1,89 @@
+﻿@page
+@model QuizzWeb.Pages.Quizzes.CreateModel
+@{
+
+    ViewData["Title"] = "Create Quiz";
+}
+
+
+<h1>Create Quiz</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="QuizTitle" class="control-label"></label>
+        <input asp-for="QuizTitle" class="form-control" />
+        <span asp-validation-for="QuizTitle" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NumQuestions" class="control-label"></label>
+        <input asp-for="NumQuestions" class="form-control" />
+        <span asp-validation-for="NumQuestions" class="text-danger"></span>
+    </div>
+    <button type="button" class="btn btn-primary" onclick="generateQuestions()">Generate Questions</button>
+    <div id="questionsContainer"></div>
+    <button type="submit" class="btn btn-success">Create Quiz</button>
+</form>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        function generateQuestions() {
+            const numQuestions = document.getElementById('NumQuestions').value;
+            const questionsContainer = document.getElementById('questionsContainer');
+            questionsContainer.innerHTML = '';
+
+            for (let i = 0; i < numQuestions; i++) {
+                const questionDiv = document.createElement('div');
+                questionDiv.className = 'form-group';
+
+                const label = document.createElement('label');
+                label.textContent = `Question ${i + 1}`;
+                questionDiv.appendChild(label);
+
+                const input = document.createElement('input');
+                input.type = 'text';
+                input.name = `Questions[${i}].Text`; // Naming convention for model binding
+                input.className = 'form-control';
+                input.required = true;
+                questionDiv.appendChild(input);
+
+                const answersContainer = document.createElement('div');
+                answersContainer.className = 'form-group mt-3';
+
+                for (let j = 0; j < 4; j++) {
+                    const answerDiv = document.createElement('div');
+                    answerDiv.className = 'form-group';
+
+                    const answerLabel = document.createElement('label');
+                    answerLabel.textContent = `Answer ${j + 1}`;
+                    answerDiv.appendChild(answerLabel);
+
+                    const answerInput = document.createElement('input');
+                    answerInput.type = 'text';
+                    answerInput.name = `Questions[${i}].Answers[${j}].Text`; // Naming convention for model binding
+                    answerInput.className = 'form-control';
+                    answerInput.required = true;
+                    answerDiv.appendChild(answerInput);
+
+                    const correctInput = document.createElement('input');
+                    correctInput.type = 'radio';
+                    correctInput.name = `Questions[${i}].CorrectAnswer`; // Naming convention for model binding
+                    correctInput.value = j;
+                    correctInput.className = 'form-check-input';
+                    answerDiv.appendChild(correctInput);
+
+                    const correctLabel = document.createElement('label');
+                    correctLabel.textContent = 'Correct';
+                    correctLabel.className = 'form-check-label';
+                    answerDiv.appendChild(correctLabel);
+
+                    answersContainer.appendChild(answerDiv);
+                }
+
+                questionDiv.appendChild(answersContainer);
+                questionsContainer.appendChild(questionDiv);
+            }
+        }
+    </script>
+}
